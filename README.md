@@ -54,8 +54,11 @@ SmartTraffix is a multithreaded traffic management system designed to simulate a
    g++ Smart_Traffix.cpp -o main -lsfml-graphics -lsfml-window -lsfml-system -pthread -std=c++17
    ./main
 
-### Contributions
-Contributions are welcome. Please fork the repository and submit pull requests to enhance the simulation or fix bugs. 
+## Contributions
+Contributions are welcome. Please fork the repository and submit pull requests to enhance the simulation or fix bugs.
+
+## Acknowledgements
+[Asim Iqbal Khan](https://github.com/Asim-Iqbal-Khan)
 
 
 
